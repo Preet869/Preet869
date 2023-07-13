@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Preet869
-- 👀 I’m interested in Software Development 
+- 👀 I’m interested in Software Development/Engineer 
 - 🌱 I’m currently in uni studying Information Technology.
 
 <!---
