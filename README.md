@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Preet869
-- 👀 I’m interested in Software Development/Engineer. 
+- 👀 I’m interested in Backend Engineer. 
 - 🎓 Recent graduate.
 - I am currently learing about AWS.
 
