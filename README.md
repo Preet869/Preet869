@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Preet869
-- About Me
+About Me
 Software engineering graduate and specialized in full stack and cloud-native development. Skilled in Python, Java, React, and AWS, with hands-on experience delivering scalable
 backend systems and integrating LLM/AI technologies into modern applications.
 
