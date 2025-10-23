@@ -7,5 +7,3 @@ reliable, innovative software that drives real-world impact.
 - Languages: Python, Java, JavaScript/TypeScript, HTML, CSS, SQL
 - Databases: PostgreSQL, MySQL, Supabase
 - Cloud/DevOps: AWS, Docker, Git, Supabase, CI/CD (GitHub Actions, Amplify)
-
-
