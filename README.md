@@ -13,5 +13,6 @@ Python • FastAPI • React • PostgreSQL • Supabase • AWS • Docker
 
 🔗 Links
 🌐 https://preetdhillonportfolio.com/  
-💼 https://www.linkedin.com/in/preet-dhillon-01 
+💼 https://www.linkedin.com/in/preet-dhillon-01
+
 📧 Preet6dhillon@gmail.com  
