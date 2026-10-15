@@ -7,9 +7,6 @@ Currently developing an AI-powered recommendation engine using GPT-4o, embedding
 🚀 AI-Focused Full-Stack Engineer  
 💻 Python • React • AWS  
 🧠 LLMs • RAG • Claude 4.6
-
-
-
 🛠️ Tech
 Python • FastAPI • React • PostgreSQL • Supabase • AWS • Docker  
 
